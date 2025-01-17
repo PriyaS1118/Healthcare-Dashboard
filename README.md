@@ -1,5 +1,7 @@
 # Healthcare-Dashboard
-This Tableau project visualizes and analyzes data related to emergency room (ER) visits. The dashboard provides insights into various aspects of ER operations, including patient demographics, waiting times, satisfaction scores, and referral patterns. It is designed to help healthcare administrators and decision-makers optimize ER workflows and improve patient experiences.\
+This Tableau project visualizes and analyzes data related to emergency room (ER) visits. The dashboard provides insights into various aspects of ER operations, including patient demographics, waiting times, satisfaction scores, and referral patterns. It is designed to help healthcare administrators and decision-makers optimize ER workflows and improve patient experiences.
+![image](https://github.com/user-attachments/assets/ddd42056-3614-4637-b173-c684f5dc542d)
+
 
 **Features**
 **Patient Count and Gender Distribution:**
